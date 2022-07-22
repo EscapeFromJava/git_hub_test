@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Test commit");
 
         System.out.println("Test commit 3");
+
+        System.out.println("Created branch \"feature-test1\"");
     }
 }
